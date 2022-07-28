@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Definição da cor de fundo para mudar a cor ao selecionar o número - Cor Fixa-->
+    <solid android:color="@color/white"/>
+
+</shape>
